@@ -1,5 +1,5 @@
 _repo: Reisebilder-und-verschiedene-Skizzen_65212
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Schrödter, H.
@@ -20,6 +20,9 @@ contributor:
   - agent_name: Ottmann, L.
     gutenberg_agent_id: '53238'
     url: http://www.gutenberg.org/2009/agents/53238
+covers:
+- cover_type: archival
+  image_path: 65212-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65212#Reisebilder-und-verschiedene-Skizzen
 gutenberg_issued: '2021-05-01'
 gutenberg_type: Text
 identifiers:
